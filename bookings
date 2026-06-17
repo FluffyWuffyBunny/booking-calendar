@@ -34,7 +34,11 @@ document.addEventListener('DOMContentLoaded', function() {
       initialView: 'dayGridMonth',
 
       events: [
-        // bookings go here
+Unit 1 → https://www.airbnb.co.uk/calendar/ical/1670465994901838763.ics?t=3b3ee5b3aff54a32808923c044b08dc0
+Unit 2 → https://www.airbnb.co.uk/calendar/ical/50375457.ics?t=c21ee80a47904da199da40e3379c4198
+Unit 3 → https://www.airbnb.co.uk/calendar/ical/50377205.ics?t=abbe37e4b55a432595f4b4255ae1dda1
+Unit 4 → https://www.airbnb.co.uk/calendar/ical/50372563.ics?t=fd2f2b14afd04ed38393a6f540306a67
+Unit 5 → https://www.airbnb.co.uk/calendar/ical/48642968.ics?t=74f12fcf9b724697b037782e9c7d42a8
       ]
     }
   );
